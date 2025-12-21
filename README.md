@@ -1,4 +1,4 @@
-```
+
                                                                             NotNebu@github ─────────────────────────────────
         ╭──────────────────╮                                                OS: ........................... Windows / Linux
         │   ███╗   ██╗     │                                                Uptime: ................................ 30 yrs
@@ -15,4 +15,4 @@
                                                                             AQX-bot-1.12.1: ......... Vanilla WoW Bot (1.12)
                                                                             Pokemon-red-ai: ......... AI playing Pokemon Red
                                                                             Y: ............................. Instagram Clone
-```
+

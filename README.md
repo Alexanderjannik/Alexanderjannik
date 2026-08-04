@@ -15,7 +15,9 @@ The projects are instead documented through detailed case studies on my portfoli
 
 **Explore the projects:** [alexanderjannik.dev](https://www.alexanderjannik.dev/)
 
+---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Alexanderjannik&color=blueviolet&style=flat-square)
 
 <!--
 **Alexanderjannik/Alexanderjannik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
